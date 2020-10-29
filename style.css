@@ -803,7 +803,7 @@ button{
 
 	
 	}
-@media screen and (max-width: 450px){
+@media screen and (max-width: 480px){
 	
 
 p{
@@ -972,7 +972,7 @@ li{
 .dropdown {
 
   display: inline-block;
-  width: 11;
+  width: 11%;
   float: right;
   margin-top:1%;
   margin-left:1%;
