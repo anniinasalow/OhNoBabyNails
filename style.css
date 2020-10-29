@@ -730,15 +730,13 @@ li{
 	padding-right:1%;
 	}
 .kuva{
-	display: inline-block;
-
-	vertical-align: top;
-	margin-left: 10%;
-	margin-right: 10%;
+	display: block;
 	position: relative;
 	z-index: -1;
 	overflow: hidden;
-	margin-top: 0;
+	display: table-cell;
+	align-items: center;
+	padding-right: 10%;
 }
 .dropdown {
 
@@ -808,3 +806,4 @@ button{
 
 	
 	}
+	
