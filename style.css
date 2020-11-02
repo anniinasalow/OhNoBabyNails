@@ -18,13 +18,22 @@ p{
 	font-family: calibri;
 	font-size:1.3vw;
 	display: inline-block;
+	font-weight: normal;
 	}
 h3{
 		color: #9F9DE9;
 	font-family: calibri;
 	font-size:1.3vw;
+	font-weight: normal;
 	
-	}	
+	}
+h1{
+			color: #9F9DE9;
+	font-family: calibri;
+	font-size:1.3vw;
+	font-weight: normal
+	
+}	
 iframe{
 	width: 100%;
 	border-width:0px;
