@@ -15,7 +15,7 @@ section{
 p{
 	text-decoration: none;
 	color: #516881;
-	font-family: calibri, serif;
+	font-family: Karla, sans-serif;
 	font-size:1.3vw;
 	display: inline-block;
 	font-weight: normal;
@@ -23,14 +23,14 @@ p{
 	}
 h3{
 	color: #516881;
-	font-family: calibri, serif;
+	font-family: Karla, sans-serif;
 	font-size: 1.3vw;
 	font-weight: normal;
 
 	}
 h1{
 	color: #516881;
-	font-family: calibri, serif;
+	font-family: Karla, sans-serif;
 	font-size: 1.3vw;
 	font-weight: normal;
 	text-align: justify;
@@ -43,7 +43,7 @@ iframe{
 	}
 
 li{
-	font-family: calibri, serif;
+	font-family: Karla, sans-serif;
 	font-size: 1.3vw;
 	color: #516881;
 	text-align: justify;
@@ -241,7 +241,7 @@ button:focus
 button{		
 		border-style: none;
 		background-color: transparent;
-		font-family: calibri, serif;
+	    font-family: Karla, sans-serif;
 		font-size: 1.3vw;
 		color: #516881;
 		cursor: pointer;
@@ -366,6 +366,7 @@ a:focus
 
 p{
 	font-size:2.2vw;
+		font-family: Karla, sans-serif;
 
 }
 h3{
@@ -373,13 +374,14 @@ h3{
 	font-size: 2.2vw;
 	font-weight: normal;
 	text-align: center;
+		font-family: Karla, sans-serif;
 	
 	}
 h1{
 
 	font-size: 2.2vw;
 	font-weight: normal;
-	
+	font-family: Karla, sans-serif;	
 }	
 section{
 	margin-bottom: 5%;
@@ -482,7 +484,6 @@ ul{
 	border-radius: 10px;
 	box-shadow: 0px 13px 19px -6px rgba(184,184,184,1);
 	font-size: 2.2vw;
-	font-family: calibri;
 	text-align: center;
 	cursor: pointer;
 	display: inline-block;
@@ -537,6 +538,7 @@ li{
 	font-size: 2.5vw;
 	padding-left:1%;
 	padding-right:1%;
+	font-family: Karla, sans-serif;	
 	}
 .dropdown {
 
@@ -593,6 +595,7 @@ button{
 		cursor: pointer;
 		display: inline-block;
 		font-size: 2.2vw;
+	font-family: Karla, sans-serif;	
 }
 }	
 
@@ -602,6 +605,7 @@ button{
 
 p{
 	font-size:2.9vw;
+	font-family: Karla, sans-serif;	
 
 
 }
@@ -615,11 +619,13 @@ h3{
 	font-size: 2.9vw;
 	font-weight: normal;
 	text-align: center;	
+	font-family: Karla, sans-serif;	
 }
 h1{
 
 	font-size: 2.9vw;
-	font-weight: normal;	
+	font-weight: normal;
+	font-family: Karla, sans-serif;	
 	
 }	
 
@@ -637,7 +643,6 @@ footer{
 	padding-bottom: 1.5%;
 	padding-top: 2%;
 	min-width: 100%;
-	opacity: 0.8;
 	left: 0%;
 	text-align: center;
 	position: relative;
@@ -712,7 +717,6 @@ ul{
 	border-radius: 10px;
 	box-shadow: 0px 13px 19px -6px rgba(184,184,184,1);
 	font-size: 2.7vw;
-	font-family: calibri;
 	text-align: center;
 	cursor: pointer;
 	display: inline-block;
@@ -735,7 +739,6 @@ ul{
 	border-radius: 10px;
 	box-shadow: 0px 13px 19px -6px rgba(184,184,184,1);
 	font-size: 2.7vw;
-	font-family: calibri;
 	text-align: center;
 	cursor: pointer;
 	display: inline-block;
@@ -745,14 +748,14 @@ ul{
 	margin-bottom: 0%;	
 	display: inline-block;
 	margin-top: 5%;
-	margin-left: 14%;
-	margin-right: 14%;
+	margin-left: 13%;
+	margin-right: 13%;
 	color: #9F9DE9;
 	background-color: #FFD2E7;
 	padding-top: 3%;
 	padding-bottom: 4%;
 	padding-left: 0%;
-	padding-right: 4%;
+	padding-right: 5%;
 	border-radius: 15px;
 	box-shadow: 0px 13px 19px -6px rgba(184,184,184,1);
 	width: 70%;
@@ -763,6 +766,7 @@ li{
 	font-size: 2.8vw;
 	padding-left:1%;
 	padding-right:1%;
+	font-family: Karla, sans-serif;	
 	}
 .kuva{
 	display: block;
@@ -833,6 +837,7 @@ button{
 		font-size: 2.8vw;
 		cursor: pointer;
 		display: inline-block;
+		font-family: Karla, sans-serif;	
 }
 
 	
