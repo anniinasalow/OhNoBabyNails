@@ -23,7 +23,7 @@ p{
 	}
 h3{
 	color: #516881;
-	font-family: Karla, sans-serif;
+	font-family: Bad Script, cursive;
 	font-size: 1.3vw;
 	font-weight: normal;
 
@@ -39,9 +39,10 @@ h2{
 h1{
 		color: #516881;
 		text-align: justify;
-		font-size: 1.9vw;
+		font-size: 1.6vw;
 		text-align: center;
 		font-family: Bad Script, cursive;
+		font-weight: normal;
 }
 iframe{
 	width: 100%;
@@ -121,7 +122,7 @@ li{
 .dropdown:hover .dropbtn {	background-color: ;}
 
 
-.etusivu{
+.ohnobabynails_kynsistudio{
 	margin-left: 0%;
 	margin-right: 0%;
 	margin-top: 3%;
@@ -144,7 +145,7 @@ li{
 	margin-right: 10%;
 	margin-top: 5%;
 }
-.teksti{
+.kynsistudio_esittely{
 
 	width: 35%;
 	min-width: 10%;
@@ -158,12 +159,14 @@ li{
   overflow:hidden;
   width: 100%;
 }
-.kuva{
+.ohnobabynails{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 3%;
 	padding-left: 10%;
+	width: 260px;
+
 }
 #timma{
 	margin-bottom: 8%;
@@ -269,7 +272,7 @@ aside{
 	float: right;
 }	
 	
-.otsikko{
+.ohnobaby{
 	margin-left: 22%;
 	margin-right: 22%;
 	width: 55%;
@@ -324,7 +327,7 @@ footer{
   color: white;
 }
 
-#varausehdot{
+#kynsistudio_varausehdot{
 	margin-bottom: 5%;	
 	display: inline-block;
 	margin-top: 2%;
@@ -381,7 +384,7 @@ h3{
 	font-size: 2.2vw;
 	font-weight: normal;
 	text-align: center;
-		font-family: Karla, sans-serif;
+	font-family: Bad Script, cursive;
 	
 	}
 h2{
@@ -425,7 +428,7 @@ footer{
 }
 
 
-.teksti{
+.kynsistudio_esittely{
 
 	width: 67%;
 	margin-top: 5%;
@@ -446,7 +449,7 @@ footer{
 	
 	}
 
-.kuva{
+.ohnobabynails{
 	display: block;
 	padding-left: 10%;
 	vertical-align: top;
@@ -455,7 +458,7 @@ footer{
 	
 
 }
-.otsikko{
+.ohnobaby{
 	margin-left: 14%;
 	margin-right: 14%;
 	width: 70%;
@@ -529,7 +532,7 @@ ul{
 .varausotsikko{
 	font-size: 2vw;
 	}
-#varausehdot{
+#kynsistudio_varausehdot{
 	margin-bottom: 0%;	
 	display: inline-block;
 	margin-top: 5%;
@@ -546,6 +549,7 @@ ul{
 	width: 70%;
 	font-size: 2.5vw;
 	list-style-type: disc;
+	text-align: center;
 }
 li{
 	font-size: 2.5vw;
@@ -632,7 +636,7 @@ h3{
 	font-size: 3.2vw;
 	font-weight: normal;
 	text-align: center;	
-	font-family: Karla, sans-serif;	
+	font-family: Bad Script, cursive;
 }
 h2{
 
@@ -644,7 +648,7 @@ h2{
 h1{
 		color: #516881;
 		text-align: justify;
-		font-size: 3.8vw;
+		font-size: 3.6vw;
 		text-align: center;
 		font-family: Bad Script, cursive;
 }
@@ -672,7 +676,7 @@ footer{
 }
 
 
-.teksti{
+.kynsistudio_esittely{
 
 	width: 67%;
 	margin-top: 5%;
@@ -694,7 +698,7 @@ footer{
 	}
 
 
-.otsikko{
+.ohnobaby{
 	margin-left: 11%;
 	margin-right: 11%;
 	width: 70%;
@@ -764,7 +768,7 @@ ul{
 	display: inline-block;
 	
 }
-#varausehdot{
+#kynsistudio_varausehdot{
 	margin-bottom: 0%;	
 	display: inline-block;
 	margin-top: 5%;
@@ -781,6 +785,7 @@ ul{
 	width: 70%;
 	font-size: 2.7vw;
 	list-style-type: disc;
+	text-align: center;
 }
 li{
 	font-size: 3.2vw;
@@ -788,7 +793,7 @@ li{
 	padding-right:1%;
 	font-family: Karla, sans-serif;	
 	}
-.kuva{
+.ohnobabynails{
 	display: block;
 	position: relative;
 	z-index: -1;
