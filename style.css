@@ -165,7 +165,7 @@ li{
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 3%;
-	padding-right: 13%;
+	padding-right: 5%;
 	width: 260px;
 
 }
@@ -429,7 +429,7 @@ footer{
 
 .ohnobabynails{
 	display: block;
-	padding-right: 13%;
+	padding-right: 0%;
 	vertical-align: top;
 	margin-left: auto;
 	margin-right: auto;	
@@ -698,7 +698,7 @@ li{
 	overflow: hidden;
 	display: table-cell;
 	align-items: center;
-	padding-right: 13%;
+	padding-right: 0%;
 }
 .dropdown {
 
